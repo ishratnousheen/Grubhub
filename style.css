@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 body{
   margin:0;
   padding:0;
@@ -75,4 +75,16 @@ header
 }
 .search .search-item input{
   outline:none;
+  border:none;
+  width:200%;
+  padding-left:10px;
+  font-size:15px;
+}
+.search .search-item:first-child{
+  width:30%;
+  color:palevioletred;
+}
+.search .search-item:last-child{
+  width:70%;
+  color:gray;
   
