@@ -70,7 +70,7 @@ header {
 }
 .search .search-item p {
     color: gray;
-    border-right: 1px solide gray;
+    border-right: 1px solid gray;
     font-size: 15px;
     margin-right: 10px;
     padding-left: 10px;
@@ -130,7 +130,7 @@ header {
     letter-spacing: 0.7px;    
 }
 .section-1 .section-1-item:hover {
-    box-shadow: 0px 1px 2px rgba(207, 207, 207, 0.5);
+    box-shadow: 0px 1px 2px rgb(207, 207, 207, 0.5);
     transition: all 0.1s;
 }
 
